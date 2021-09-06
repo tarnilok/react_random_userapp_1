@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.container {
+    padding: 3rem;
+    width: 39rem;
+    height: 39rem;
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    display: flex;
+    flex-direction: column;
+    border-radius: .5rem;
+    box-shadow: 10px 10px rgba(1, 73, 206, 0.2),
+      15px 15px rgba(111, 154, 235, 0.2);
+}
+
+.Box {
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+}
+.text {
+    flex-grow: 1;
+}
+
+.svg {
+    height: 3.5rem;
+    margin: 1.5rem 3.2rem;
+    flex-grow: 0;
+}
+.image {
+    border-radius: 50%;
+    height: 10rem;
+}
+
+p {
+    display: flex-end;
+}
+
+.registerDate, .age {
+    justify-content: center;
+    margin-bottom: .3rem;
+}
+
+.button {
+    font-size: 2rem;
+    padding: 1rem 1rem;
+    border-radius: .5rem;
+    margin-top: 1.5rem;
+    background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
+    color: white;
+    font-weight: bolder;
+    border: 0px;
+}
+.button:hover {
+    cursor: pointer;
+    background-color: #DCD9D4;
+    background-image: linear-gradient(to bottom, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%), radial-gradient(at 50% 0%, rgba(255,255,255,0.10) 0%, rgba(0,0,0,0.50) 50%);
+    background-blend-mode: soft-light,screen;
+    color: black;
+}
+.button:active {
+    transform: translateY(2px);
+}
