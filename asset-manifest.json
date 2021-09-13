@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/react_random_user_app_1/static/css/main.a64ae15a.chunk.css",
-    "main.js": "/react_random_user_app_1/static/js/main.a6da5e58.chunk.js",
-    "main.js.map": "/react_random_user_app_1/static/js/main.a6da5e58.chunk.js.map",
-    "runtime-main.js": "/react_random_user_app_1/static/js/runtime-main.16c751a6.js",
-    "runtime-main.js.map": "/react_random_user_app_1/static/js/runtime-main.16c751a6.js.map",
-    "static/js/2.0dcf71fb.chunk.js": "/react_random_user_app_1/static/js/2.0dcf71fb.chunk.js",
-    "static/js/2.0dcf71fb.chunk.js.map": "/react_random_user_app_1/static/js/2.0dcf71fb.chunk.js.map",
-    "static/js/3.8f525173.chunk.js": "/react_random_user_app_1/static/js/3.8f525173.chunk.js",
-    "static/js/3.8f525173.chunk.js.map": "/react_random_user_app_1/static/js/3.8f525173.chunk.js.map",
+    "main.js": "/react_random_user_app_1/static/js/main.ee247e91.chunk.js",
+    "main.js.map": "/react_random_user_app_1/static/js/main.ee247e91.chunk.js.map",
+    "runtime-main.js": "/react_random_user_app_1/static/js/runtime-main.a84cd29f.js",
+    "runtime-main.js.map": "/react_random_user_app_1/static/js/runtime-main.a84cd29f.js.map",
+    "static/js/2.7ab04bfe.chunk.js": "/react_random_user_app_1/static/js/2.7ab04bfe.chunk.js",
+    "static/js/2.7ab04bfe.chunk.js.map": "/react_random_user_app_1/static/js/2.7ab04bfe.chunk.js.map",
+    "static/js/3.3dd0a93d.chunk.js": "/react_random_user_app_1/static/js/3.3dd0a93d.chunk.js",
+    "static/js/3.3dd0a93d.chunk.js.map": "/react_random_user_app_1/static/js/3.3dd0a93d.chunk.js.map",
     "index.html": "/react_random_user_app_1/index.html",
     "static/css/main.a64ae15a.chunk.css.map": "/react_random_user_app_1/static/css/main.a64ae15a.chunk.css.map",
-    "static/js/2.0dcf71fb.chunk.js.LICENSE.txt": "/react_random_user_app_1/static/js/2.0dcf71fb.chunk.js.LICENSE.txt",
+    "static/js/2.7ab04bfe.chunk.js.LICENSE.txt": "/react_random_user_app_1/static/js/2.7ab04bfe.chunk.js.LICENSE.txt",
     "static/media/email.19db9a97.svg": "/react_random_user_app_1/static/media/email.19db9a97.svg",
     "static/media/location.24395323.svg": "/react_random_user_app_1/static/media/location.24395323.svg",
     "static/media/phone.0e84da6a.svg": "/react_random_user_app_1/static/media/phone.0e84da6a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.16c751a6.js",
-    "static/js/2.0dcf71fb.chunk.js",
+    "static/js/runtime-main.a84cd29f.js",
+    "static/js/2.7ab04bfe.chunk.js",
     "static/css/main.a64ae15a.chunk.css",
-    "static/js/main.a6da5e58.chunk.js"
+    "static/js/main.ee247e91.chunk.js"
   ]
 }
