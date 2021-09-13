@@ -8,12 +8,17 @@ import { useState, useEffect } from "react";
 const Card = () => {
 const [person, setPerson] = useState(false)
 
-const fetcher = () => {
-    axios.get("https://randomuser.me/api/")
+const fetcher = async () => {
+  try {  
+    await axios.get("https://randomuser.me/api/")
     .then(response => {
         // console.log(response.data.results[0])
-        setPerson(response.data.results[0])
+        setPerson(response?.data?.results[0])
     })
+  }
+  catch (e) {
+    console.log(e)
+  }   
 }
 
 useEffect(() => {
